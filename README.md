@@ -6,3 +6,9 @@ Here I have mentioned few good sources that I came across as a novice in this fi
 
 ![](image/Data%20Science.jpg)
 
+
+After doing alot of searching the entire set can be divided as Basics and Advance Learning. 
+
+Let's start with the Basics:
+
+**Mathematics**
